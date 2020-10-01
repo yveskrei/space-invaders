@@ -19,9 +19,9 @@ Then, head over to ***Run->Run*** and run the program.
 
 ## Game Information
 ### Terms
-- Sniper - The **\_** character on the screen. Launches a bullet to kill enemies
-- Bullet - The **\|** character on the screen. Launched by the sniper to kill enemies
-- Enemies - The **\0** characters on the screen. Need to be killed by the sniper
+- Sniper - The _ character on the screen. Launches a bullet to kill enemies
+- Bullet - The | character on the screen. Launched by the sniper to kill enemies
+- Enemies - The 0 characters on the screen. Need to be killed by the sniper
 
 ### Instructions
 - Left arrow - Move the **Sniper** one step to the left

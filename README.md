@@ -24,9 +24,10 @@ Then, head over to ***Run->Run*** and run the program.
 - Enemies - The 0 characters on the screen. Need to be killed by the sniper
 
 ### Instructions
-- Left arrow - Move the **Sniper** one step to the left
-- Right arrow - Move the **Sniper** one step to the right
-- Space key - Launch a bullet towards the enemies above
+- Left arrow - Move the sniper one step to the left
+- Right arrow - Move the sniper one step to the right
+- Space key - Launch a bullet towards the enemies above. The bullet will launch from
+the sniper's current position
 
 ## Screenshots
 ![DOSBox](./screenshots/DOSBox_setup.png)

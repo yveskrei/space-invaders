@@ -1,8 +1,8 @@
 # Space Invaders
-A Space Invaders game built in assembly
+A Space Invaders game built in 16 bit assembly
 
 ## Installation
-- Install [DOSBox](https://www.dosbox.com/download.php?main=1)
+- Install [DOSBox](https://www.dosbox.com/)
 - Move the **space_invaders.asm** file into the **tasm** folder
 
 Open up DOSBox and type the following commands:  
@@ -26,7 +26,7 @@ Then, head over to ***Run->Run*** and run the program.
 ### Instructions
 - Left arrow - Move the sniper one step to the left
 - Right arrow - Move the sniper one step to the right
-- Space key - Launch a bullet towards the enemies above. The bullet will launch from
+- Space key - Launch a bullet towards the enemies above. The bullet will launch from  
 the sniper's current position
 
 ## Screenshots
